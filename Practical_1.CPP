@@ -18,7 +18,7 @@ void bubbleSort(vector<int> &a)
  swap(a[j], a[j + 1]);
  }
  }
- }
+ )
 }
 //---------------- Selection Sort ----------------
 void selectionSort(vector<int> &a)
